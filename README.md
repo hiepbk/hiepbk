@@ -73,14 +73,16 @@
 
 ---
 ## 📜 Certifications
-- 🐍 [Python Core – SoloLearn](https://www.sololearn.com/certificates/CC-GE7BBX5A)
-- 💻 [C++ – SoloLearn](https://www.sololearn.com/certificates/CC-NMWQW7VX)
-- 📊 [Machine Learning – SoloLearn](https://www.sololearn.com/certificates/CT-CQAA2UKN)
-- 🧠 [Machine Learning with Python – IBM (Coursera)](https://www.coursera.org/learn/machine-learning-with-python)
-- 🚗 [Introduction to Self-Driving Cars – University of Toronto (Coursera)](https://www.coursera.org/learn/introduction-self-driving-cars)
-- 🧠 [Neural Networks and Deep Learning – DeepLearning.AI](https://www.coursera.org/learn/neural-networks-deep-learning)
-- 🔍 [Deep Neural Networks with PyTorch – IBM (Coursera)](https://www.coursera.org/learn/deep-neural-networks-with-pytorch)
-- 👁️ [Visual Perception for Self-Driving Cars – University of Toronto (Coursera)](https://www.coursera.org/learn/visual-perception-self-driving-cars)
+
+- 💻 [C++ – SoloLearn](https://www.sololearn.com/certificates/course/en/25778042/1051/landscape/png)
+- 🐍 [Python Core – SoloLearn](https://www.sololearn.com/certificates/course/en/25778042/1073/landscape/png)
+- 📊 [Machine Learning – SoloLearn](https://www.sololearn.com/certificates/course/en/25778042/1094/landscape/png)
+- 🤖 [Machine Learning with Python – IBM (Coursera)](https://coursera.org/share/313dd1a44a0cd4bdde4e06e6a9c9dad4)
+- 🚗 [Introduction to Self-Driving Cars – University of Toronto (Coursera)](https://www.coursera.org/account/accomplishments/certificate/2VNLV55SPW2D)
+- 🧠 [Neural Networks and Deep Learning – DeepLearning.AI](https://www.coursera.org/account/accomplishments/certificate/KGY9NQJMY5L8)
+- 🔍 [Deep Neural Networks with PyTorch – IBM (Coursera)](https://www.coursera.org/account/accomplishments/certificate/LYH7Y8TMTNV3)
+- 👁️ [Visual Perception for Self-Driving Cars – University of Toronto (Coursera)](https://coursera.org/share/897ef7a61e1fec21f0e22f5b08cabada)
+
 
 
 ---
