@@ -90,7 +90,7 @@
 ## 📫 Contact
 
 - ✉️ hiepbk.97@gmail.com
-- 🌐 [LinkedIn (Optional)]([https://linkedin.com/in/hiepbk](https://www.linkedin.com/in/hiepbk97/))  
+- 🌐 [LinkedIn – hiepbk97](https://www.linkedin.com/in/hiepbk97/)
 - 💬 Languages: Vietnamese (Native), English (Intermediate), Korean (Basic)
 
 ---
