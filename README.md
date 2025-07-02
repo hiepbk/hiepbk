@@ -69,7 +69,7 @@
 - 🧠 *AFMtrack: Attention-Based Feature Matching for MOT* — **IEEE Access** (Q1) – *Second Author*
 - 📦 *Shape-Aware 3D Detection* — **KICS Conference** – *First Author*
 - 🧩 *ESSDet: Enhancing Spatial Shape for 3D Detection* — **ICOIN Conference** – *First Author*
-- 🧠 *[Title TBA]* — **Machine Vision & Applications Journal** (Q2) – *Second Author*
+- 🧠 *CAMTrack: a combined appearance-motion method for multiple-object tracking* — **Machine Vision & Applications Journal** (Q2) – *Second Author*
 
 ---
 ## 📜 Certifications
