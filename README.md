@@ -91,7 +91,6 @@
 
 - ✉️ hiepbk.97@gmail.com
 - 🌐 [LinkedIn – hiepbk97](https://www.linkedin.com/in/hiepbk97/)
-- 💬 Languages: Vietnamese (Native), English (Intermediate), Korean (Basic)
 
 ---
 
