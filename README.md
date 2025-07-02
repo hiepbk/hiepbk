@@ -25,7 +25,7 @@
 
 - Working on **real-time AI perception systems** for autonomous platforms and smart infrastructure
 - Designing and optimizing **high-performance deep learning pipelines** for vision-based tasks
-- Leveraging frameworks like **PyTorch, TensorRT, OpenCV, MMDetection3D**, and others for production-ready AI
+- Leveraging frameworks like **PyTorch, TensorRT, OpenCV, MMDetection3D, MMDet, Detection2, OpenPCDet**, and others for production-ready AI
 - Focused on both **image-based and LiDAR-based solutions**, with deployment on embedded devices (Jetson Orin, Xavier)
 
 ### 🔹 Research Assistant — ANDA Lab, Soongsil University (2022–Present)
