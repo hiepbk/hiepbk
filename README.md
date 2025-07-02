@@ -15,7 +15,7 @@
 🌏 Passionate about bringing intelligence to the real world using deep learning and computer vision  
 
 > 💡 Key areas of interest:  
-> **3D Object Detection**, **Point Cloud Processing**, **Scene Understanding**, **SLAM**, **Autonomous Navigation**
+> **3D Object Detection**, **Point Cloud Processing**, **Scene Understanding**, **Panoptic Segmentation**, **Point Cloud Reconstruction**
 
 ---
 
