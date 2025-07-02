@@ -91,6 +91,7 @@
 
 - ✉️ hiepbk.97@gmail.com
 - 🌐 [LinkedIn – hiepbk97](https://www.linkedin.com/in/hiepbk97/)
+-  📚 [Google Scholar](https://scholar.google.com/citations?user=dEH4XGoAAAAJ&hl=vi)
 
 ---
 
