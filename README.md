@@ -28,7 +28,7 @@
 - Leveraging frameworks like **PyTorch, TensorRT, OpenCV, MMDetection3D, MMDet, Detection2, OpenPCDet**, and others for production-ready AI
 - Focused on both **image-based and LiDAR-based solutions**, with deployment on embedded devices (Jetson Orin, Xavier)
 
-### 🔹 Research Assistant — ANDA Lab, Soongsil University (2022–Present)
+### 🔹 Research Assistant — ANDA Lab, Soongsil University (2022–2024)
 
 - Conducted research on **3D object detection** and **multi-object tracking** for autonomous driving applications  
 - Explored architectures involving **transformers, sparse convolution, and panoptic segmentation**
