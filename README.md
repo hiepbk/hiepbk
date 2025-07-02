@@ -93,13 +93,4 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hiepdtx&show_icons=true&theme=github_dark&hide_title=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiepdtx&layout=compact&theme=github_dark" height="150"/>
-</p>
-
----
-
 _“Driven by curiosity and guided by data, I build efficient, scalable, and real-time computer vision systems to empower intelligent machines.”_
