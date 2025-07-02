@@ -72,8 +72,6 @@
 - 🧠 *[Title TBA]* — **Machine Vision & Applications Journal** (Q2) – *Second Author*
 
 ---
-
-## 📜 Certifications 
 ## 📜 Certifications
 - 🐍 [Python Core – SoloLearn](https://www.sololearn.com/certificates/CC-GE7BBX5A)
 - 💻 [C++ – SoloLearn](https://www.sololearn.com/certificates/CC-NMWQW7VX)
@@ -89,7 +87,7 @@
 
 ## 📫 Contact
 
-- ✉️ hiepbk97@deltax.ai  
+- ✉️ hiepbk.97@gmail.com
 - 🌐 [LinkedIn (Optional)]([https://linkedin.com/in/hiepbk](https://www.linkedin.com/in/hiepbk97/))  
 - 💬 Languages: Vietnamese (Native), English (Intermediate), Korean (Basic)
 
